@@ -1,0 +1,30 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "My Weather Web App in desktop app format",
+  "build": {
+    "appId": "Weather App",
+    "productName": "Weather App",
+    "linux": {
+      "target": [
+        "AppImage"
+      ],
+      "category": "Utility",
+      "icon": "./src/images/portada.png"
+    }
+  },
+  "devDependencies": {
+    "electron": "^32.0.0",  
+    "electron-builder": "^24.13.3"
+  }
+}
+
+
