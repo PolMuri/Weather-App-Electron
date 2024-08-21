@@ -1,30 +1,17 @@
-# Weather-Web 🌡️☀️⛅☁️🌧️🌨️
+# Weather App 🌡️☀️⛅☁️🌧️🌨️
 Comments in Catalan (my native lenguage), code in English.
 
-Web app to view the weather in your current location through geolocation, real-time weather anywhere in the world through name search, and a 5-day weather forecast. Javascript-HTML-CSS
-
-Live demo: https://polmuri.github.io/Weather-WebApp/
+App made with electron reusing the code of my Weather Web Wpp to view the weather in your current location through geolocation, real-time weather anywhere in the world through name search, and a 5-day weather forecast. Javascript-HTML-CSS
 
 # Some examples in english:
 
   -Clear Sky:
-  ![1708368172844](https://github.com/PolMuri/Weather-WebApp/assets/109922379/700f0534-37db-4222-9a1e-491935d4dc86)
 
-  **Weather animations:**
 
   -Rain:
   
-![image](https://github.com/PolMuri/Weather-WebApp/assets/109922379/c5ca7114-80b9-43f0-93c4-ce60002e1d53)
-
-  -Snow:
-  
-  ![image](https://github.com/PolMuri/Weather-WebApp/assets/109922379/51cd0b0d-a6d2-4efa-9269-79b85af6988a)
-
-  -Five days scroll:
-  ![1708368172873](https://github.com/PolMuri/Weather-WebApp/assets/109922379/ca24aff4-7428-4f19-a365-9062b0be4a06)
 
 # Exemple in catalan:
-![1708368172930](https://github.com/PolMuri/Weather-WebApp/assets/109922379/5e76dbe3-489c-41f5-91ab-74e73f828620)
 
 
 ## In May 2024, we have updated our integration with the OpenWeatherMap API from version One Call API 2.5 to version One Call API 3.0.
